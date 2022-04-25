@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$JLm5GTk5ONa5.Xdf8lGO6e0TNZwbIymHySZ4oiCbxTdfHD0s5sSlK"
+    }
+  ],
+  "user": {
+    "name": "typicode"
+  }
+}
